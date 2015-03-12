@@ -1,0 +1,8 @@
+name=haikuHUD
+desc=A hud made for Medic mains
+creator=Hergan5 & haiku
+steamid=76561198083292101
+url=https://github.com/haikufortress/haikuhud2/
+url=http://steamcommunity.com/groups/haikuhud
+version=1.0
+update_url=https://github.com/haikufortress/haikuhud2/archive/master.zip
